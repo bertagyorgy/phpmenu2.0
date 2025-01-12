@@ -1,0 +1,15 @@
+2025-01-07 14:33:03;1;Berta György;Nagyon szép munka;
+2025-01-07 14:35:57;2;Pap Máté;Élvezem az életet;
+2025-01-11 15:49:45;3;Berta György;First comment;
+2025-01-11 15:50:13;4;Berta György;Second comment lets goo;
+2025-01-11 15:56:18;5;János Alex;Egyre jobb és jobb lesz itt minden;
+2025-01-12 10:02:29;6;Tündi;Az oldal még fejlesztésre szorul, de jó lesz! Igy tovább...;
+2025-01-12 10:23:57;7;Berta György;Nagyon jó kedvem van;
+2025-01-12 10:28:49;8;Berta György;Szomorú vagyok;
+2025-01-12 10:32:19;9;Berta György;Jó lesz mostmár;
+2025-01-12 10:47:30;10;Berta György;Király;
+2025-01-12 10:48:52;11;Berta György;Most csak simán látnod kell ezt:);
+2025-01-12 10:54:53;12;Berta György;Szia;
+2025-01-12 11:30:52;13;Pap Máté;Cuki lett az oldalB);
+2025-01-12 11:34:36;14;Berta György;Imádnivaló ez az oldal:):D;
+2025-01-12 12:48:15;15;Berta György;Király lett a css, nem is tudom ki tette összeB);
